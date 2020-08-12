@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a contact tracing app (keep your eyes peeled)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to find a suitable placement/internship opportunities
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 BION: I built a speaker that can play music from any direction and it's pending a patent!
 - ⚡ Fun fact: I make music, I play the guitar, and I love rooftop bars!
 
 ### Connect with me:
@@ -47,6 +47,9 @@
 
 <br />
 <br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arsalz1999)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [facebook]: https://www.facebook.com/arsal.beconnite
 [website]: https://arsalz1999.github.io
