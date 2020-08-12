@@ -1,6 +1,6 @@
 ### Hi there, I'm Arsal 👋
 
-## I am origionally from Pakistan, and am now based in London, UK!
+## I am origionally from Pakistan :flag_pakistan: , and am now based in London, UK :flag_united_kingdom:!
 - 🔭 I’m currently working on a contact tracing app (keep your eyes peeled)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to find a suitable placement/internship opportunities
