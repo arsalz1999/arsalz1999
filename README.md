@@ -1,6 +1,6 @@
 ### Hi there, I'm Arsal 👋
 
-## I'm a 3rd Year MEng Student at Imperial College London, and lover of all things tech!
+## I am origionally from Pakistan :pakistan but am now based in London, UK : united_kingdom.
 - 🔭 I’m currently working on a contact tracing app (keep your eyes peeled)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to find a suitable placement/internship opportunities
